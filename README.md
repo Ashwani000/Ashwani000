@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashwani Kushwaha</h1>
 <h3 align="center">A Passionate python Developer in India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw10aEBdrFqcZzP8-LJ2Lrh7&ust=1736671948889000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDa55Cm7YoDFQAAAAAdAAAAABAE" width="400" align="right">
+- 🔭 I’m currently a Fresher
+- 🌱 I’m currently learning Data Analytics.
+- 🤔 I’m looking for a job where i can showcase my skill. 
 - 📫 How to reach me **www.linkedin.com/in/ashwani-kushwaha-307a97214**
 
-- ⚡ Fun fact **i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
